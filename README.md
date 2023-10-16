@@ -1,0 +1,1 @@
+# Material UI - Next.js App Router MCVE Template
