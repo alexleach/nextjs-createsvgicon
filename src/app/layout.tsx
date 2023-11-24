@@ -21,10 +21,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <header>
           {/* Breaks with error: Element Type is invalid: expected a string */}
-          {/* <SvgIcon component={MySvgIcon} /> */}
-          <SvgIcon>
-            <MySvgIcon />
-          </SvgIcon>
+          <SvgIcon component={MySvgIcon} />
         </header>
         <main>
           {children}
