@@ -24,10 +24,10 @@ const LogoIcon = createSvgIcon(
   // all the attributes should be camelCase and not kebab-case, but this is enough to render something visible
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    fill-rule="evenodd"
-    stroke-linecap="round"
-    stroke-miterlimit="10"
-    clip-rule="evenodd"
+    fillRule="evenodd"
+    strokeLinecap="round"
+    strokeMiterlimit="10"
+    clipRule="evenodd"
     viewBox="0 0 24 24"
   >
     <g fill="none" stroke="#11999e">
