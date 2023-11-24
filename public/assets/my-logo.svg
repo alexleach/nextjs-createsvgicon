@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  fillRule="evenodd"
-  strokeLinecap="round"
-  strokeMiterLimit="10"
-  clipRule="evenodd"
+  fill-rule="evenodd"
+  stroke-linecap="round"
+  stroke-miterlimit="10"
+  clip-rule="evenodd"
   viewBox="0 0 24 24"
 >
   <g fill="none" stroke="#11999e">

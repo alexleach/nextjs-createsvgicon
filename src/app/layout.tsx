@@ -20,8 +20,10 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <header>
-          {/* Breaks with error: Element Type is invalid: expected a string */}
-          <SvgIcon component={MySvgIcon} />
+          <h2>Logo built using @svgr/webpack</h2>
+          <SvgIcon>
+            <MySvgIcon sx={{ fontSize: 100 }} />
+          </SvgIcon>
         </header>
         <main>
           {children}
